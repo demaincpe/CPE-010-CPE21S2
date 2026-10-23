@@ -1,5 +1,6 @@
 # CPE 010 - CPE21S2 (2026-2027) | Data Structures and Algorithms
 # 💫 About Me:
+- My name is Jaime Luis M. Demain
 - I'm currently taking Bachelor of Science in Computer Engineering<br>
 - TESDA Computer System Servicing NC II Certificate Holder (https://drive.google.com/file/u/1/d/1ddblWt9JGtagSSsS-nf0dpVcIqrG5yja/view?usp=drive_link)<br>
 
