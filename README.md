@@ -45,7 +45,8 @@ By the end of this course, the student should be able to:
 
 ### 🔵 PRELIM PERIOD
 * **Topic 1: Introduction to Data Structures & C++ Review**
-  * [`Documentation (PDF)`](./Prelim/Topic1_Intro/Documentation.pdf) | [`Source (.cpp)`](./Prelim/Topic1_Intro/main.cpp) | [`Header (.h)`](./Prelim/Topic1_Intro/structures.h)
+  * https://github.com/demaincpe/CPE-010-CPE21S2/tree/main/Prelim/HOA1
+  * https://github.com/demaincpe/CPE-010-CPE21S2/tree/main/Prelim/Seatwork1
 * **Topic 2: Arrays and Pointers**
   * [`Documentation (PDF)`](./Prelim/Topic2_Arrays/Documentation.pdf) | [`Source (.cpp)`](./Prelim/Topic2_Arrays/main.cpp)
 * **Topic 3: Singly and Doubly Linked Lists**
