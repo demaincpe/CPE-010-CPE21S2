@@ -44,42 +44,49 @@ By the end of this course, the student should be able to:
 ## 📂 Course Work & Laboratory Repository
 
 ### 🔵 PRELIM PERIOD
-* **Topic 1: Introduction to Data Structures & C++ Review**
+* **Module 1: Introduction to Data Structures & C++ Review**
   * https://github.com/demaincpe/CPE-010-CPE21S2/tree/main/Prelim/HOA1
   * https://github.com/demaincpe/CPE-010-CPE21S2/tree/main/Prelim/Seatwork1
-* **Topic 2: Arrays and Pointers**
-  * [`Documentation (PDF)`](./Prelim/Topic2_Arrays/Documentation.pdf) | [`Source (.cpp)`](./Prelim/Topic2_Arrays/main.cpp)
-* **Topic 3: Singly and Doubly Linked Lists**
-  * [`Documentation (PDF)`](./Prelim/Topic3_LinkedLists/Documentation.pdf) | [`Source (.cpp)`](./Prelim/Topic3_LinkedLists/main.cpp) | [`Header (.h)`](./Prelim/Topic3_LinkedLists/LinkedList.h)
-* **Topic 4: Stacks and Queues**
-  * [`Documentation (PDF)`](./Prelim/Topic4_StacksQueues/Documentation.pdf) | [`Source (.cpp)`](./Prelim/Topic4_StacksQueues/main.cpp) | [`Header (.h)`](./Prelim/Topic4_StacksQueues/StackQueue.h)
-
+* **Module 2: Arrays, Pointers and Dynamic Memory Allocation**
+  * https://github.com/demaincpe/CPE-010-CPE21S2/tree/main/Prelim/Seatwork2.1
+  * https://github.com/demaincpe/CPE-010-CPE21S2/tree/main/Prelim/HOA2
+* **Module 3: Singly and Doubly Linked Lists**
+  * https://github.com/demaincpe/CPE-010-CPE21S2/tree/main/Prelim/HOA3
+* **Module 4: Stacks**
+  * https://github.com/demaincpe/CPE-010-CPE21S2/tree/main/Prelim/HOA4
+* **Module 5: Queues**
+  * https://github.com/demaincpe/CPE-010-CPE21S2/tree/main/Prelim/HOA5
+  
 ---
 
 ### 🟡 MIDTERM PERIOD
-* **Topic 5: Trees and Binary Search Trees (BST)**
-  * [`Documentation (PDF)`](./Midterm/Topic5_Trees/Documentation.pdf) | [`Source (.cpp)`](./Midterm/Topic5_Trees/main.cpp) | [`Header (.h)`](./Midterm/Topic5_Trees/BST.h)
-* **Topic 6: AVL Trees & Self-Balancing Structures**
-  * [`Documentation (PDF)`](./Midterm/Topic6_AVLTrees/Documentation.pdf) | [`Source (.cpp)`](./Midterm/Topic6_AVLTrees/main.cpp) | [`Header (.h)`](./Midterm/Topic6_AVLTrees/AVL.h)
-* **Topic 7: Priority Queues and Binary Heaps**
-  * [`Documentation (PDF)`](./Midterm/Topic7_Heaps/Documentation.pdf) | [`Source (.cpp)`](./Midterm/Topic7_Heaps/main.cpp)
-* **Topic 8: Graphs and Traversal Algorithms (BFS / DFS)**
-  * [`Documentation (PDF)`](./Midterm/Topic8_Graphs/Documentation.pdf) | [`Source (.cpp)`](./Midterm/Topic8_Graphs/main.cpp) | [`Header (.h)`](./Midterm/Topic8_Graphs/Graph.h)
-
+* **Module 6: Searching Techniques**
+  * https://github.com/demaincpe/CPE-010-CPE21S2/tree/main/Midterm/Assignment6
+  * https://github.com/demaincpe/CPE-010-CPE21S2/tree/main/Midterm/HOA6
+* **Module 7: Sorting Algorithms Pt 1**
+  * https://github.com/demaincpe/CPE-010-CPE21S2/tree/main/Midterm/Seatwork7
+  * https://github.com/demaincpe/CPE-010-CPE21S2/tree/main/Midterm/Seatwork7.2
+  * https://github.com/demaincpe/CPE-010-CPE21S2/tree/main/Midterm/HOA7
+* **Module 8: Sorting Algorithms Pt 2**
+  * https://github.com/demaincpe/CPE-010-CPE21S2/tree/main/Midterm/Seatwork8
+  * https://github.com/demaincpe/CPE-010-CPE21S2/tree/main/Midterm/HOA8
+* **Module 9: Trees**
+  * https://github.com/demaincpe/CPE-010-CPE21S2/tree/main/Midterm/Ass.9andSW9
+  * https://github.com/demaincpe/CPE-010-CPE21S2/tree/main/Midterm/HOA9
+* **Module 10: Graphs**
+  * https://github.com/demaincpe/CPE-010-CPE21S2/tree/main/Midterm/HOA10
+  
 ---
 
 ### 🔴 FINALS PERIOD
-* **Seatwork 11.1: Project Planning & SDLC Gantt Chart**
-  * [`Documentation (PDF)`](./Finals/Seatwork11_1_Planning/Seatwork11_1_Planning.pdf)
-* **Module 12: Graph Algorithms & Minimum Spanning Trees**
-  * [`Documentation (PDF)`](./Finals/Module12_GraphAlgorithms/Documentation.pdf) | [`Source (.cpp)`](./Finals/Module12_GraphAlgorithms/main.cpp)
+* **Module 11: Basic Algorithm Analysis**
+  * https://github.com/demaincpe/CPE-010-CPE21S2/tree/main/Finals/HOA11
+* **Module 12: Algorithmic Strategies**
+  * https://github.com/demaincpe/CPE-010-CPE21S2/tree/main/Finals/HOA12
 * **Module 13: Parallel Algorithms and Multithreading**
-  * [`Documentation (PDF)`](./Finals/Module13_Multithreading/Documentation.pdf) | [`Source (.cpp)`](./Finals/Module13_Multithreading/main.cpp)
-* **Activity 14: Algorithm Complexity & Asymptotic Analysis**
-  * [`Documentation (PDF)`](./Finals/Activity14_AlgorithmComplexity/Activity14_Report.pdf) | [`Source (.cpp)`](./Finals/Activity14_AlgorithmComplexity/benchmarks.cpp)
-* **Module 15: CPU Scheduling Algorithms (FCFS, SJF, SRTF, Round Robin)**
-  * [`Documentation (PDF)`](./Finals/Module15_CPUScheduling/Documentation.pdf) | [`Source (.cpp)`](./Finals/Module15_CPUScheduling/scheduler.cpp)
-
+  * https://github.com/demaincpe/CPE-010-CPE21S2/tree/main/Finals/HOA13
+* **Module 14: Algorithm Complexity**
+  * https://github.com/demaincpe/CPE-010-CPE21S2/tree/main/Finals/HOA14
 ---
 
 ## 📊 GitHub Statistics
